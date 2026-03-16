@@ -1,0 +1,22 @@
+#Entorno virtual de python
+venv/
+.venv/
+env/
+
+# Cache de python
+__pycache__/
+*.pyc
+*.pyo
+
+#Variables de entorno y secretos - Nunca subir estos archivos a un repositorio público
+.env
+*.env .local
+*.env
+
+#Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+#Jupiter Notebook
+.ipynb_checkpoints/
