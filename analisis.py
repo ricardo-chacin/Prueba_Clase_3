@@ -16,3 +16,5 @@ promedio = calcular_promedio(dataset)
 mediana = calcular_mediana(dataset)
 print(f"Promedio: {promedio}")
 print(f"Mediana: {mediana}")
+
+print("Estoy mofificando este archivo para probar el control de versiones")
