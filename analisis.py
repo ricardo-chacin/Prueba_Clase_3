@@ -18,3 +18,4 @@ print(f"Promedio: {promedio}")
 print(f"Mediana: {mediana}")
 
 print("Estoy mofificando este archivo para probar el control de versiones")
+print("Estoy agregando esta linea en la rama Ricardo")
